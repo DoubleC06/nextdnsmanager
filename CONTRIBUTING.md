@@ -1,4 +1,4 @@
-# Contributing
+DoubleC06/nextdnsmanager# Contributing
 
 I welcome contributions to NextDNS Manager. Whether it's bug fixes, new features, or improvements to documentation, your input helps make this project better.
 
